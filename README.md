@@ -10,3 +10,4 @@ Tech Dose with Surya Pratap Kahar
 - [04-Bitwise AND Number Range (201)](<./Assignment-01/04-Bitwise AND Number Range(201)/>)
 - [05-Counting Bits (338)](<./Assignment-01/05-Counting-Bits(338)/>)
 - [06-Hamming Distance (461)](<./Assignment-01/06-HammingDistance(461)/>)
+- [07-Decode XORed Permutation (1734)](<./Assignment-01/07-XORedPermutation(1734)/>)
