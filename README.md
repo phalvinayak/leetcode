@@ -4,6 +4,7 @@ Tech Dose with Surya Pratap Kahar
 
 ## Assignemt-01
 
-- [01.Single Number](<./Assignments-01/01-SingleNumber(136)/>)
-- [02-Single Number II](<./Assignment-01/02-SingleNumber-II(137)/>)
-- [03-Majority Index](<./Assignment-01/03-MajorityElement(169)//>)
+- [01.Single Number (139)](<./Assignments-01/01-SingleNumber(136)/>)
+- [02-Single Number II (137)](<./Assignment-01/02-SingleNumber-II(137)/>)
+- [03-Majority Index (169)](<./Assignment-01/03-MajorityElement(169)/>)
+- [03-Bitwise AND Number Range (201)](<./Assignment-01/04-Bitwise AND Number Range(201)/>)
