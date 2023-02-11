@@ -6,23 +6,33 @@ class Solution {
      * calculate the rest of the series by iterating over it.
      */
     public static int[] decode(int[] encoded) {
-        int[] arr = new int[encoded.length +1];
+        int first = 0;
+        int n = encoded.length + 1;
 
-        // Finding 2's compliment of the first element.
-        // Using rule a ^ b = c then c ^ a = b
-        // Can iterate over the loop
-        int num = encoded[0];
-        // Logic to get the Kth significant bit (Woks for +ve integer)
-        int k = (int) (Math.log(num) / Math.log(2)) + 1;
-        // Creating mask with left shifting significant bit times and - 1.
-        int mask = (1 << k) - 1;
-        // 2's compliment by XOR with mask and adding 1 to it.
-        arr[0] = (num ^ mask) + 1;
+        // XORed all the natural numbers from 1-n+1
+        for (int i = 1; i <= n; i++) {
+            first ^= i;
+        }
+
+        // XORed all the odd numbers
+        // It's like canceling all the element except first one in
+        // perm array to get the first element
+        // 1 ^ 2 ^ 3 ^ 4 ^ 5 first n Odd number of Natural numbers
+        // Encoded elements will be
+        // a^b | b^c | c^d | d^e If I start with index 1 and inc by 2 (All oadd
+        // elements)
+        // it will be b^c^d^e, which lefts out a
+        for (int i = 1; i < n - 1; i += 2) {
+            first ^= encoded[i];
+        }
+
+        int[] perm = new int[n];
+        perm[0] = first;
         int index = 1;
-        for(int x: encoded){
-            arr[index] = arr[index-1] ^ x;
+        for (int x : encoded) {
+            perm[index] = perm[index - 1] ^ x;
             index++;
         }
-        return arr;
+        return perm;
     }
 }
