@@ -1,23 +1,44 @@
 class Solution {
 
     /**
-     * Creating a map which keeps track of the number frequency
-     * Find the majority mark, which will decide the element has majority occurance
-     * When we reach that mark, store the number and break the loop
-     *
-     * Return the saved number as high frequency number.
+     * Counting the bits of the all the element in the array based on the postion of
+     * bit.
+     * Find the majority count, to filter the bits to construct the final number.
+     * Find all the bits which are set majority count times and reconstruct the
+     * number.
+     * 
+     * There is a conrver case for JAVA of Interger.MIN_NUMBER, which is handled
+     * using (-x -1)
+     * same trick used while construcitng the number back.
      */
     public static int majorityElement(int[] nums) {
-        Map<Integer, Integer> freqMap = new HashMap<>();
-        int majoritySize = (int) Math.ceil((double)nums.length/2);
-        int highFreqNumber = 0;
-        for(int num: nums){
-            freqMap.put(num, freqMap.getOrDefault(num, 0)+1);
-            if(freqMap.getOrDefault(num, 0) >= majoritySize){
-                highFreqNumber = num;
-                break;
+        int[] bits = new int[32];
+        for (int x : nums) {
+            if (x < 0) {
+                x = -x - 1;
+            } // Handling the -ve number while counting the bits
+            int bit = 0;
+            while (x > 0) {
+                bits[bit++] += 1 & x; // Checking the last bit is set or not
+                x >>= 1; // Right shifting by 1 to integer divide it by 2
             }
         }
-        return highFreqNumber;
+        // System.out.println(Arrays.toString(bits));
+        int majorityCount = (nums.length >> 1) + 1;
+        int res = 0;
+        for (int i = 0; i < bits.length; i++) {
+            // Bit has to be set majorityCount times
+            if (bits[i] >= majorityCount) {
+                // Adding 2^i to result to construct the result.
+                res |= 1 << i;
+            }
+        }
+        for (int x : nums) {
+            if ((x ^ res) == 0) {
+                return res;
+            }
+        }
+        // Handling -ve number scenario
+        return -res - 1;
     }
 }
