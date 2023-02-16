@@ -2,6 +2,10 @@
 
 Tech Dose with Surya Pratap Kahar
 
+## Assignemt-02
+
+- [01.Count Primes (204)](<./Assignment-02/01-CountPrime(204)/>) - Leetcode [link](https://leetcode.com/problems/count-primes/)
+
 ## Assignemt-01
 
 - [01.Single Number (139)](<./Assignment-01/01-SingleNumber(136)/>) - Leetcode [link](https://leetcode.com/problems/single-number/)
