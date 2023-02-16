@@ -5,6 +5,7 @@ Tech Dose with Surya Pratap Kahar
 ## Assignemt-02
 
 - [01.Count Primes (204)](<./Assignment-02/01-CountPrime(204)/>) - Leetcode [link](https://leetcode.com/problems/count-primes/)
+- [03.Pow(x,n) (50)](<./Assignment-02/03-Pow(x,y)(50)/>) - Leetcode [link](https://leetcode.com/problems/powx-n/)
 
 ## Assignemt-01
 
