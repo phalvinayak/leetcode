@@ -5,6 +5,7 @@ Tech Dose with Surya Pratap Kahar
 ## Assignemt-02
 
 - [01.Count Primes (204)](<./Assignment-02/01-CountPrime(204)/>) - Leetcode [link](https://leetcode.com/problems/count-primes/)
+- [01.Unique Binary Search Tree (96)](<./Assignment-02/02-UniqueBinarySearchTree(96)//>) - Leetcode [link](https://leetcode.com/problems/unique-binary-search-trees/)
 - [03.Pow(x,n) (50)](<./Assignment-02/03-Pow(x,y)(50)/>) - Leetcode [link](https://leetcode.com/problems/powx-n/)
 
 ## Assignemt-01
