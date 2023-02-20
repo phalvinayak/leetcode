@@ -7,7 +7,8 @@ Tech Dose with Surya Pratap Kahar
 - [01.Count Primes (204)](<./Assignment-02/01-CountPrime(204)/>) - Leetcode [link](https://leetcode.com/problems/count-primes/)
 - [01.Unique Binary Search Tree (96)](<./Assignment-02/02-UniqueBinarySearchTree(96)//>) - Leetcode [link](https://leetcode.com/problems/unique-binary-search-trees/)
 - [03.Pow(x,n) (50)](<./Assignment-02/03-Pow(x,y)(50)/>) - Leetcode [link](https://leetcode.com/problems/powx-n/)
-- [04-Pascals Triangle (118)](<./Assignment-02/04-PascalsTriangle(118)//>) - Leetcode [link](https://leetcode.com/problems/pascals-triangle/)
+- [04-Pascals Triangle (118)](<./Assignment-02/04-PascalsTriangle(118)/>) - Leetcode [link](https://leetcode.com/problems/pascals-triangle/)
+- [05-2 Keys Keyboard (650)](<./Assignment-02/05-2KeysKeyboard(650)/>) - Leetcode [link](https://leetcode.com/problems/2-keys-keyboard/)
 
 ## Assignemt-01
 
