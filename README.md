@@ -5,6 +5,7 @@ Tech Dose with Surya Pratap Kahar
 ## Assignment-04 Array
 
 - [01.Kth Largest Element](./Assignment-04/01-KthLargestElement/) - Leetcode [link](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [02.Sort Colors](./Assignment-04/02-SortColors/) - Leetcode [link](https://leetcode.com/problems/sort-colors/)
 
 ## Assignment-03 Sorting
 
