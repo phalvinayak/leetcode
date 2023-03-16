@@ -2,7 +2,16 @@
 
 Tech Dose with Surya Pratap Kahar
 
-## Assignemt-02
+## Assignment-03 Sorting
+
+- [01.Selection Sort](./Assignment-03/01-SelectionSort/)
+- [02.Bubble Sort](./Assignment-03/02-BubbleSort/)
+- [03.Merge Sort](./Assignment-03/03-MergeSort/)
+- [04.Quick Sort](./Assignment-03/04-QuickSort/)
+- [05.Insertion Sort](./Assignment-03/05-InstertionSort/)
+- [06.Counting Sort](./Assignment-03/06-CountingSort/)
+
+## Assignment-02 Math Algorithm
 
 - [01.Count Primes (204)](<./Assignment-02/01-CountPrime(204)/>) - Leetcode [link](https://leetcode.com/problems/count-primes/)
 - [01.Unique Binary Search Tree (96)](<./Assignment-02/02-UniqueBinarySearchTree(96)//>) - Leetcode [link](https://leetcode.com/problems/unique-binary-search-trees/)
@@ -10,7 +19,7 @@ Tech Dose with Surya Pratap Kahar
 - [04-Pascals Triangle (118)](<./Assignment-02/04-PascalsTriangle(118)/>) - Leetcode [link](https://leetcode.com/problems/pascals-triangle/)
 - [05-2 Keys Keyboard (650)](<./Assignment-02/05-2KeysKeyboard(650)/>) - Leetcode [link](https://leetcode.com/problems/2-keys-keyboard/)
 
-## Assignemt-01
+## Assignment-01 Bit Manipulation
 
 - [01.Single Number (139)](<./Assignment-01/01-SingleNumber(136)/>) - Leetcode [link](https://leetcode.com/problems/single-number/)
 - [02-Single Number II (137)](<./Assignment-01/02-SingleNumber-II(137)/>) - Leetcode [link](https://leetcode.com/problems/single-number-ii/)
