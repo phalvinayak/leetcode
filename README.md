@@ -2,6 +2,10 @@
 
 Tech Dose with Surya Pratap Kahar
 
+## Assignment-04 Array
+
+- [01.Kth Largest Element](./Assignment-04/01-KthLargestElement/) - Leetcode [link](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
 ## Assignment-03 Sorting
 
 - [01.Selection Sort](./Assignment-03/01-SelectionSort/)
