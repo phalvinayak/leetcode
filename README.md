@@ -6,6 +6,8 @@ Tech Dose with Surya Pratap Kahar
 
 - [01.Kth Largest Element](./Assignment-04/01-KthLargestElement/) - Leetcode [link](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [02.Sort Colors](./Assignment-04/02-SortColors/) - Leetcode [link](https://leetcode.com/problems/sort-colors/)
+- [03.Largest Sum of Continious SubArray](./Assignment-04/03-LargestSumOfSubArray/)
+- [04.Merge Two Sorted Array without Extra space](./Assignment-04/04-Merge2SortedArray/)
 
 ## Assignment-03 Sorting
 
