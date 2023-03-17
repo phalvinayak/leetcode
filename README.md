@@ -6,6 +6,8 @@ Tech Dose with Surya Pratap Kahar
 
 ## Assignment-09 Heap
 
+- [01.Heap Sort](./09-Heap/01-HeapSort/)
+
 ## Assignment-08 Hash Map
 
 ## Assignment-07 Stack & Queue
@@ -29,6 +31,7 @@ Tech Dose with Surya Pratap Kahar
 - [04.Quick Sort](./03-Sorting/04-QuickSort/)
 - [05.Insertion Sort](./03-Sorting/05-InstertionSort/)
 - [06.Counting Sort](./03-Sorting/06-CountingSort/)
+- [07.Heap Sort](./03-Sorting/07-HeapSort/)
 
 ## Assignment-02 Math Algorithm
 
