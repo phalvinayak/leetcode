@@ -16,7 +16,7 @@ function heapSort(heap) {
 function heapify(heap, curr, size) {
   let largest = curr;
   let l = 2 * curr + 1;
-  let r = l + 1;
+  let r = 2 * curr + 2;
   if (l < size && heap[l] > heap[largest]) {
     largest = l;
   }

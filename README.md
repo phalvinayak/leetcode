@@ -7,6 +7,11 @@ Tech Dose with Surya Pratap Kahar
 ## Assignment-09 Heap
 
 - [01.Heap Sort](./09-Heap/01-HeapSort/)
+- [02.Max Heapify](./09-Heap/02-MaxHeapify/)
+- [03.Min Heapify](./09-Heap/03-MinHeapify/)
+- [04.Build Heap](./09-Heap/04-BuildHeap/)
+- [05.Heap Pop](./09-Heap/05-HeapPop/)
+- [06.Heap Push](./09-Heap/06-HeapPush/)
 
 ## Assignment-08 Hash Map
 
