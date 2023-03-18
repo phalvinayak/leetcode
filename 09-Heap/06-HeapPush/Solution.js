@@ -1,7 +1,7 @@
 /**
  * Heap Push / Heap Insert
  * 1. There should be an empty space, append at the end O(1)
- * 2. Perform Perpulate Up
+ * 2. Perform Percolate Up
  * @param {Array} heap Heap as a Array
  * @param {number} value element to be inserted
  */
@@ -15,4 +15,8 @@ function heapPush(heap, value) {
     i = Math.floor(i / 2);
   }
   // Total Time complexcity O(log N)
+}
+
+function swap(arr, i, j) {
+  [arr[i], arr[j]] = [arr[j], arr[i]];
 }
