@@ -12,10 +12,16 @@ Tech Dose with Surya Pratap Kahar
 - [04.Build Heap](./09-Heap/04-BuildHeap/)
 - [05.Heap Pop](./09-Heap/05-HeapPop/)
 - [06.Heap Push](./09-Heap/06-HeapPush/)
+- [07.Increase Key](./09-Heap/07-IncreaseKey/)
+- [08.Decrease Key](./09-Heap/08-DecreaseKey/)
 
 ## Assignment-08 Hash Map
 
 ## Assignment-07 Stack & Queue
+
+- [01.Stack Using Queue](./07-StackQueue/01-StackUsingQueue/) - Leetcode [link](https://leetcode.com/problems/implement-stack-using-queues/)
+- [02.Queue Using Stack](./07-StackQueue/02-QueueUsingStack/) - Leetcode [link](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [03.Valid Paranthesis](./07-StackQueue/03-ValidParanthesis/) - Leetcode [link](https://leetcode.com/problems/valid-parentheses/)
 
 ## Assignment-06 Linked List
 
