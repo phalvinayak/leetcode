@@ -33,6 +33,7 @@ Tech Dose with Surya Pratap Kahar
 - [02.Sort Colors](./04-Array/02-SortColors/) - Leetcode [link](https://leetcode.com/problems/sort-colors/)
 - [03.Largest Sum of Continious SubArray](./04-Array/03-LargestSumOfSubArray/)
 - [04.Merge Two Sorted Array without Extra space](./04-Array/04-Merge2SortedArray/)
+- [05.Two Sum](./04-Array/05-TwoSum/) - Leetcode [link](https://leetcode.com/problems/two-sum/)
 
 ## Assignment-03 Sorting
 
