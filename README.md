@@ -27,6 +27,8 @@ Tech Dose with Surya Pratap Kahar
 
 ## Assignment-05 Matrix
 
+- [01.Spiral Matrix](./05-Matrix/01.SpiralMatrix/) - Leetcode [link](https://leetcode.com/problems/spiral-matrix/)
+
 ## Assignment-04 Array
 
 - [01.Kth Largest Element](./04-Array/01-KthLargestElement/) - Leetcode [link](https://leetcode.com/problems/kth-largest-element-in-an-array/)
