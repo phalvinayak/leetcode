@@ -2,6 +2,21 @@
 
 Tech Dose with Surya Pratap Kahar
 
+## Assignment-13 Greedy
+
+## Assignment-12 Segment Tree
+
+- [01.Updae Operation](./12-SegmentTree/01-UpdateOperation/)
+- [02.Range Sum](./12-SegmentTree/02.RangeSum/)
+- [03.Range Max](./12-SegmentTree/03.RangeMax/)
+- [04.Range Min](./12-SegmentTree/04.RangeMin/)
+- [05.Range XOR](./12-SegmentTree/05.RangeXOR/)
+- [06.Range GCD](./12-SegmentTree/06.RangeGCD/)
+- [07.Range LCM](./12-SegmentTree/07.RangeLCM/)
+- [08.Range Count Zeros](./12-SegmentTree/08.RangeCountZeros/)
+
+## Assignment-11 Back Tracking
+
 ## Assignment-10 Tree
 
 ## Assignment-09 Heap
