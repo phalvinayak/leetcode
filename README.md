@@ -32,6 +32,8 @@ Tech Dose with Surya Pratap Kahar
 
 ## Assignment-08 Hash Map
 
+- [01.Valid Sudoku](./08-HashMap/01.ValidSudoku/) - Leetcode [link](https://leetcode.com/problems/valid-sudoku/)
+
 ## Assignment-07 Stack & Queue
 
 - [01.Stack Using Queue](./07-StackQueue/01-StackUsingQueue/) - Leetcode [link](https://leetcode.com/problems/implement-stack-using-queues/)
