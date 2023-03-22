@@ -19,7 +19,7 @@ The majority element is the element that appears more than `⌊n / 2⌋` times. 
 **Constraints:**
 
 - `n == nums.length`
-- `1 <= n <= 5 * 10<sup>4</sup>`
-- `-10<sup>9</sup> <= nums[i] <= 10<sup>9</sup>`
+- `1 <= n <= 5 * 10^4`
+- `-10^9 <= nums[i] <= 10^9`
 
 **Follow-up:** Could you solve the problem in linear time and in `O(1)` space?

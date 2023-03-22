@@ -22,4 +22,4 @@ Given an integer `n`, return _the number of prime numbers that are strictly less
 
 **Constraints:**
 
-- `0 <= n <= 5 * 10<sup>6</sup>`
+- `0 <= n <= 5 * 10^6`

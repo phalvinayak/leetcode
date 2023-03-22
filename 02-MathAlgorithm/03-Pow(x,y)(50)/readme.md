@@ -18,11 +18,11 @@ Implement [pow(x, n)](http://www.cplusplus.com/reference/valarray/pow/), which c
 
 **Input:** x = 2.00000, n = -2
 **Output:** 0.25000
-**Explanation:** 2<sup>-2</sup> = 1/2<sup>2</sup> = 1/4 = 0.25
+**Explanation:** 2<sup>-2</sup> = 1/2^2 = 1/4 = 0.25
 
 **Constraints:**
 
 - `-100.0 < x < 100.0`
-- `-2<sup>31</sup> <= n <= 2<sup>31</sup>-1`
+- `-2^31 <= n <= 2^31-1`
 - `n` is an integer.
-- `-10<sup>4</sup> <= x<sup>n</sup> <= 10<sup>4</sup>`
+- `-10^4 <= x<sup>n</sup> <= 10^4`

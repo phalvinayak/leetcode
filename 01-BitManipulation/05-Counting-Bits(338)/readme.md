@@ -27,7 +27,7 @@ Given an integer `n`, return _an array_ `ans` _of length_ `n + 1` _such that for
 
 **Constraints:**
 
-- `0 <= n <= 10<sup>5</sup>`
+- `0 <= n <= 10^5`
 
 **Follow up:**
 

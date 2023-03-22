@@ -21,6 +21,6 @@ Given the `encoded` array, return _the original array_ `perm`. It is guaranteed 
 
 **Constraints:**
 
-- `3 <= n < 10<sup>5</sup>`
+- `3 <= n < 10^5`
 - `n` is odd.
 - `encoded.length == n - 1`

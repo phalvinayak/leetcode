@@ -20,5 +20,5 @@ You must solve it in `O(n)` time complexity.
 
 **Constraints:**
 
-- `1 <= k <= nums.length <= 10<sup>5</sup>`
-- `-10<sup>4</sup> <= nums[i] <= 10<sup>4</sup>`
+- `1 <= k <= nums.length <= 10^5`
+- `-10^4 <= nums[i] <= 10^4`

@@ -6,8 +6,8 @@
 var isValidSudoku = function (board) {
   let map = new Map();
   let m = board.length;
-  // Validate row by duplicate check
   for (let i = 0; i < m; i++) {
+    // Validate row by duplicate check
     for (let j = 0; j < m; j++) {
       if (board[i][j] !== ".") {
         if (map.has(board[i][j])) {
@@ -29,6 +29,7 @@ var isValidSudoku = function (board) {
     }
     map.clear();
 
+    // Validate 3x3 table for duplicates
     let tableRowStart = Math.floor(i / 3) * 3; // Generate row start index
     let tableColStart = (i % 3) * 3; // Generate column start index
     for (let j = tableRowStart; j <= tableRowStart + 2; j++) {

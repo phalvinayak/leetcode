@@ -18,6 +18,6 @@ You must implement a solution with a linear runtime complexity and use only co
 
 **Constraints:**
 
-- `1 <= nums.length <= 3 * 10<sup>4</sup>`
-- `-2<sup>31</sup> <= nums[i] <= 2<sup>31</sup> - 1`
+- `1 <= nums.length <= 3 * 10^4`
+- `-2^31 <= nums[i] <= 2^31 - 1`
 - Each element in `nums` appears exactly **three times** except for one element which appears **once**.

@@ -27,4 +27,4 @@ The above arrows point to positions where the corresponding bits are different.
 
 **Constraints:**
 
-- `0 <= x, y <= 2<sup>31</sup> - 1`
+- `0 <= x, y <= 2^31 - 1`
